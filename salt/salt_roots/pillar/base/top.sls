@@ -1,0 +1,7 @@
+development:
+  '*':
+    - website
+
+production:
+  '*':
+    - website

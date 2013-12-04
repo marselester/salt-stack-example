@@ -1,0 +1,1 @@
+website_static_dir: /home/sweet_home/nginx_please_serve_it_for_dev_env
