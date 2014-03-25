@@ -31,5 +31,5 @@ Finally deploy **development** or **production** environment in VM.
 
 Enjoy `the result page`_ (it will be served by Nginx).
 
-.. _Slides about SaltStack: http://marselester.ru/saltstack-slides.html
+.. _Slides about SaltStack: http://marselester.com/saltstack-slides.html
 .. _the result page: http://salt-hello-world/
